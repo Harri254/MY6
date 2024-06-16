@@ -6,8 +6,8 @@ let image3 = document.querySelector('#image3');
 let answers3 = document.querySelector(".ans3");
 let image4 = document.querySelector('#image4');
 let answers4 = document.querySelector(".ans4");
-let first ='assets/images/icon-minus.svg';
-let second ='assets/images/icon-plus.svg';
+let first ='./images/icon-minus.svg';
+let second ='./images/icon-plus.svg';
 let isImageFirst = true;
 
 image.addEventListener("click", function(){
